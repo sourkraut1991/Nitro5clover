@@ -1,2 +1,5 @@
 # Nitro5clover
-My Nitro 5 AN515-53
+This will be my Clover EFI folder. 
+
+What DOESN'T WORK
+  WIFI
